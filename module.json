@@ -1,0 +1,15 @@
+{
+	"name": "hide-combat-tracker",
+	"title": "Hide Combat Tracker",
+	"description": "A module that hides the combat tracker for players",
+	"author": "Stendarpaval (Lupusmalus)",
+	"url": "https://github.com/Stendarpaval/hide-combat-tracker",
+	"version": "0.0.1",
+	"minimumCoreVersion": "0.8.8",
+	"compatibleCoreVersion": "0.8.8",
+	"esmodules": [
+		"scripts/main.js"
+	],
+	"manifest": "https://raw.githubusercontent.com/Stendarpaval/hide-combat-tracker/main/module.json",
+	"download": "https://github.com/Stendarpaval/mob-attack-tool/releases/download/0.0.1/module.zip"
+}
